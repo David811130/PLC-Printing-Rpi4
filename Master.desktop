@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Master
+Comment=Madibana Unisa Scan_Print App
+NoDisplay=false
+Exec=/usr/bin/lxterminal -e /home/pi/startApp.sh
+NotShowIn=GNOME;KDE;XFCE;
